@@ -1,0 +1,2 @@
+require product=stingray|xoom-cdma|xoom-cdma-lte
+
